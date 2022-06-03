@@ -4,7 +4,7 @@
 
 /**
  * main - Prints the lowercase alphabet in reverse.
- *
+ *        Followed by new line.
  * Return: Always 0.
  */
 int main(void)
