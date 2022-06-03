@@ -2,6 +2,8 @@
  * 7-print_tebahpla.c
  */
 
+#include <stdio.h>
+
 /**
  * main - Prints the lowercase alphabet in reverse.
  *        Followed by new line.
