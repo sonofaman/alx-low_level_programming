@@ -1,7 +1,8 @@
 /*
  * File: 8-rot13.c
  */
- #include "main.h"
+
+#include "main.h"
  
 /**
  * rot13 - Encodes a string using rot13.
