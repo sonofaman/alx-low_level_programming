@@ -1,7 +1,7 @@
 /*
  * file : 4-free_list.c
  */
- 
+
 #include "lists.h"
 #include <stdlib.h>
 
